@@ -313,9 +313,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rails (= 5.2.2)
   spree (~> 3.7.0)
   spree_auth_devise (~> 3.4)
   spree_gateway (~> 3.4)
+
+RUBY VERSION
+   ruby 2.5.3p105
 
 BUNDLED WITH
    2.0.1
